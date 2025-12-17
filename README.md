@@ -9,3 +9,8 @@ This repository documents my journey toward building end-to-end AI products.
 - Description: Customer records from a telecom company
 - Target column: Churn
 
+### Setup
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+
